@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html class="no-js">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ site.title }}</title>
+        <meta name="description" content="{{ site.description }}">
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+
+        <link rel="stylesheet" href="{{ '/assets/lib/epubjs-reader/css/normalize.css' | relative_url }}">
+        <link rel="stylesheet" href="{{ '/assets/lib/epubjs-reader/css/main.css' | relative_url }}">
+        <link rel="stylesheet" href="{{ '/assets/lib/epubjs-reader/css/popup.css' | relative_url }}">
+
+        <script src="{{ '/assets/lib/epubjs-reader/js/libs/jquery.min.js' | relative_url }}"></script>
+        <script src="{{ '/assets/lib/epubjs-reader/js/libs/zip.min.js' | relative_url }}"></script>
+        <script>
+            "use strict";
+
+            document.onreadystatechange = function () {
+              if (document.readyState == "complete") {
+                //window.reader = ePubReader("{{ '/Aladore_Newbolt_1914/OEBPS/content.opf' | relative_url }}", {
+                window.reader = ePubReader("{{ '/assets/Aladore_HenryNewbolt_3.epub' | relative_url }}", {
+                   restore: true
+                 });
+              }
+            };
+        </script>
+        <!-- Full Screen -->
+        <script src="{{ '/assets/lib/epubjs-reader/js/libs/screenfull.min.js' | relative_url }}"></script>
+        <!-- Render -->
+        <script src="{{ '/assets/lib/epubjs-reader/js/epub.js' | relative_url }}"></script>
+        <!-- Reader -->
+        <script src="{{ '/assets/lib/epubjs-reader/js/reader.js' | relative_url }}"></script>
+    </head>
+    <body>
+        {{ content }}
+    </body>
+</html>

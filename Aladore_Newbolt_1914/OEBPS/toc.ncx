@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:5f098482-c550-420e-ba0b-b4da3ad7ce2c" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Unknown</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>CHAPTER I. OF THE HALL OF SULNEY AND HOW SIR YWAIN LEFT IT.</text>
+      </navLabel>
+      <content src="Text/chapter01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>CHAPTER II. HOW SIR YWAIN SAW HIS OWN FACE THE FIRST TIME.</text>
+      </navLabel>
+      <content src="Text/chapter02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>CHAPTER III. HOW IT FORTUNED TO YWAIN TO FIND A STAFF IN THE PLACE OF HIS SWORD.</text>
+      </navLabel>
+      <content src="Text/chapter03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>CHAPTER IV. HOW YWAIN CAME TO AN HERMITAGE IN A WOOD.</text>
+      </navLabel>
+      <content src="Text/chapter04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>CHAPTER V. OF THE HERMIT AND OF HIS DEALING WITH YWAIN.</text>
+      </navLabel>
+      <content src="Text/chapter05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>CHAPTER VI. YET MORE OF THE HERMIT, AND OF A WORD THAT WAS IN YWAIN'S EARS.</text>
+      </navLabel>
+      <content src="Text/chapter06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>CHAPTER VII. HOW YWAIN LOOKED INTO THE WATER OF A WELL, AND OF THAT WHICH HE SAW THEREIN.</text>
+      </navLabel>
+      <content src="Text/chapter07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>CHAPTER VIII. HOW THE HERMIT SET YWAIN ON HIS WAY AND OF TWO SECRETS THAT HE TOLD HIM.</text>
+      </navLabel>
+      <content src="Text/chapter08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>CHAPTER IX. OF YWAIN'S JOURNEY BY NIGHT, AND HOW HE WAS BROUGHT BY A LADY TO THE PLACE OF HIS VISION, AND SO LEFT HER.</text>
+      </navLabel>
+      <content src="Text/chapter09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>CHAPTER X. OF THE LADY AITHNE, AND OF THE GIFTS THAT SHE HAD FROM HER BIRTH.</text>
+      </navLabel>
+      <content src="Text/chapter10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>CHAPTER XI. HOW THE LADY AILINN DEPARTED OUT OF THIS LIFE AND OF THE COUNSEL THAT SHE GAVE TO HER DAUGHTER AITHNE.</text>
+      </navLabel>
+      <content src="Text/chapter11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>CHAPTER XII. OF THE WARRING OF TWO COMPANIES, AND HOW YWAIN DID BATTLE FOR THE ONE OF THEM AGAINST THE OTHER.</text>
+      </navLabel>
+      <content src="Text/chapter12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>CHAPTER XIII. HOW YWAIN WAS BROUGHT INTO THE CITY OF PALADORE.</text>
+      </navLabel>
+      <content src="Text/chapter13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>CHAPTER XIV. HOW YWAIN SAT AT FEAST IN PALADORE WITH THE COMPANY OF THE TOWER AND THE COMPANY OF THE EAGLE.</text>
+      </navLabel>
+      <content src="Text/chapter14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>CHAPTER XV. OF THE GIFTS THAT WERE GIVEN TO YWAIN AND OF A DREAM THAT HE DREAMED.</text>
+      </navLabel>
+      <content src="Text/chapter15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>CHAPTER XVI. HOW YWAIN FOUND HIS LADY AGAIN, AND HOW SHE WENT FROM HIM THE SECOND TIME.</text>
+      </navLabel>
+      <content src="Text/chapter16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>CHAPTER XVII. OF ALADORE AND OF THE SANDS CALLED THE SHEPHERDINE SANDS.</text>
+      </navLabel>
+      <content src="Text/chapter17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>CHAPTER XVIII. OF PALADORE AND OF THE PRINCES THEREOF.</text>
+      </navLabel>
+      <content src="Text/chapter18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>CHAPTER XIX. HOW YWAIN SPOKE WITH THE PRINCE OF PALADORE AND HOW HE TOOK UPON HIM THREE ADVENTURES.</text>
+      </navLabel>
+      <content src="Text/chapter19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>CHAPTER XX. OF THE ADVENTURE OF THE CHESS, AND BY WHAT MEANS YWAIN BROUGHT HIS MEN INTO OBEDIENCE.</text>
+      </navLabel>
+      <content src="Text/chapter20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>CHAPTER XXI. OF THE ADVENTURE OF THE CASTLE OF MAIDENS AND HOW YWAIN WAS COUNSELLED TO ESCAPE THEREFROM.</text>
+      </navLabel>
+      <content src="Text/chapter21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>CHAPTER XXII. OF THE ADVENTURE OF THE HOWLING BEAST.</text>
+      </navLabel>
+      <content src="Text/chapter22.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>CHAPTER XXIII. HOW YWAIN EMPRISED TO GO TO THE CITY OF THE SAINTS AND SO INTO THE DELECTABLE ISLE.</text>
+      </navLabel>
+      <content src="Text/chapter23.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>CHAPTER XXIV. HOW YWAIN SAW THE CITY OF THE SAINTS THE FIRST TIME AND HOW HE HEARD THE BELLS THEREOF.</text>
+      </navLabel>
+      <content src="Text/chapter24.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>CHAPTER XXV. OF THE MANNER OF THE CITY AND HOW YWAIN FELL ADROWSING THEREIN.</text>
+      </navLabel>
+      <content src="Text/chapter25.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>CHAPTER XXVI. HOW YWAIN FOUND HIS LADY IN A GARDEN.</text>
+      </navLabel>
+      <content src="Text/chapter26.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>CHAPTER XXVII. HOW YWAIN WAS BIDDEN TO AN ABBEY AND SO TO BE ENTRAPPED BY TREASON.</text>
+      </navLabel>
+      <content src="Text/chapter27.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>CHAPTER XXVIII. HOW THE MOON CHANGED, AND HOW YWAIN BROKE FORTH FROM THE CITY OF THE SAINTS.</text>
+      </navLabel>
+      <content src="Text/chapter28.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>CHAPTER XXIX. HOW YWAIN CAME INTO THE LOST LANDS OF THE SOUTH, AND OF THREE SIGNS WHEREBY THAT COUNTRY MIGHT BE KNOWN.</text>
+      </navLabel>
+      <content src="Text/chapter29.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>CHAPTER XXX. HOW YWAIN HAD FELLOWSHIP WITH THE FAUNS.</text>
+      </navLabel>
+      <content src="Text/chapter30.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>CHAPTER XXXI. HOW YWAIN MET WITH A SHEPHERDESS AND HEARD A MUSIC, AND HOW HE HAD SIGHT OF ALADORE THE FIRST TIME.</text>
+      </navLabel>
+      <content src="Text/chapter31.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>CHAPTER XXXII. HOW YWAIN LIVED AS IT HAD BEEN IN THE GOLDEN AGE AND HOW HE WAS STILL UNSATISFIED.</text>
+      </navLabel>
+      <content src="Text/chapter32.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>CHAPTER XXXIII. OF THE MADNESS OF THE FAUNS, AND HOW YWAIN FORSOOK THEM SUDDENLY, AND HIS LADY WITH HIM.</text>
+      </navLabel>
+      <content src="Text/chapter33.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>CHAPTER XXXIV. HOW YWAIN AND AITHNE WENT FLYING BETWEEN SUN AND MOON.</text>
+      </navLabel>
+      <content src="Text/chapter34.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>CHAPTER XXXV. OF THE CITY OF DAEDALA, AND HOW AN OLD DAME THEREIN DESPAIRED OF IT.</text>
+      </navLabel>
+      <content src="Text/chapter35.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>CHAPTER XXXVI. OF A PROMISE THAT WAS MADE TO YWAIN, AND HOW HE TOOK WINGS TO SEEK FOR ALADORE.</text>
+      </navLabel>
+      <content src="Text/chapter36.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>CHAPTER XXXVII. HOW YWAIN CAME THE SECOND TIME TO THE HERMIT, AND HOW HE TOOK COUNSEL OF HIM.</text>
+      </navLabel>
+      <content src="Text/chapter37.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>CHAPTER XXXVIII. HOW YWAIN RETURNED AGAIN TO PALADORE FOR TO DWELL THERE, AND HOW HE SPOKE TO APPEASE A STRIFE THAT WAS BETWEEN THE PEOPLE.</text>
+      </navLabel>
+      <content src="Text/chapter38.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>CHAPTER XXXIX. HOW YWAIN BEHELD A GAME OF CHILDREN AND HEARD THEIR SINGING.</text>
+      </navLabel>
+      <content src="Text/chapter39.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel>
+        <text>CHAPTER XL. HOW YWAIN CAME TO ALADORE.</text>
+      </navLabel>
+      <content src="Text/chapter40.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel>
+        <text>CHAPTER XLI. HOW YWAIN ENTERED INTO THE RHYMER'S HERITAGE, AND HOW HE FOUND HIS LADY THEREIN.</text>
+      </navLabel>
+      <content src="Text/chapter41.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel>
+        <text>CHAPTER XLII. HOW YWAIN AND AITHNE WERE GIVEN EACH TO OTHER, AND HOW THEY WERE WEDDED BY THE FREEDOM OF ALADORE.</text>
+      </navLabel>
+      <content src="Text/chapter42.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel>
+        <text>CHAPTER XLIII. HOW AITHNE SHOWED YWAIN OF THE ENCHANTMENTS OF THE RHYMER, AND OF THEM WHICH DO THEREAFTER.</text>
+      </navLabel>
+      <content src="Text/chapter43.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel>
+        <text>CHAPTER XLIV. HOW YWAIN BEHELD HIS LADY SLEEPING, AND HOW HE DESIRED TO SEE THE CASTLE OF KERIOC.</text>
+      </navLabel>
+      <content src="Text/chapter44.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel>
+        <text>CHAPTER XLV. HOW YWAIN FOUND AGAIN HIM WHICH WAS FORGOTTEN IN ALADORE, AND HOW HE HEARD A RING OF BELLS AT MIDNIGHT.</text>
+      </navLabel>
+      <content src="Text/chapter45.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel>
+        <text>CHAPTER XLVI. HOW YWAIN WAS COUNSELLED OF THE PRINCE OF PALADORE.</text>
+      </navLabel>
+      <content src="Text/chapter46.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel>
+        <text>CHAPTER XLVII. HOW YWAIN AND AITHNE HAD SIGHT OF HUBERT, AND RETURNED TOGETHER INTO PALADORE.</text>
+      </navLabel>
+      <content src="Text/chapter47.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-48" playOrder="48">
+      <navLabel>
+        <text>CHAPTER XLVIII. HOW YWAIN WAS AWEARIED OF PALADORE, AND HOW HE WAS MISHANDLED BY THE GREAT ONES OF THE CITY.</text>
+      </navLabel>
+      <content src="Text/chapter48.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-49" playOrder="49">
+      <navLabel>
+        <text>CHAPTER XLIX. HOW YWAIN WAS EXCOMMUNICATE AFTER THE CUSTOM OF PALADORE.</text>
+      </navLabel>
+      <content src="Text/chapter49.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-50" playOrder="50">
+      <navLabel>
+        <text>CHAPTER L. HOW YWAIN AND AITHNE CAME TO ALADORE THE LAST TIME, AS IN THIS TRANSITORY LIFE.</text>
+      </navLabel>
+      <content src="Text/chapter50.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-51" playOrder="51">
+      <navLabel>
+        <text>CHAPTER LI. OF TWO CITIES THAT WERE BUILDED DIVERSELY, AND HOW YWAIN AND AITHNE HEARD A HORN BLOWN OVERSEA FOR BATTLE.</text>
+      </navLabel>
+      <content src="Text/chapter51.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-52" playOrder="52">
+      <navLabel>
+        <text>CHAPTER LII. OF A SHIP THAT WAS FULL OF LADIES AND LOVELY KNIGHTS, AND HOW YWAIN AND AITHNE DEPARTED WITH THEM OVER SEA.</text>
+      </navLabel>
+      <content src="Text/chapter52.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-53" playOrder="53">
+      <navLabel>
+        <text>CHAPTER LIII. HOW YWAIN AND AITHNE CAME TO PALADORE THE LAST TIME, AND HOW THE SNOW FELL ALL NIGHT LONG.</text>
+      </navLabel>
+      <content src="Text/chapter53.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-54" playOrder="54">
+      <navLabel>
+        <text>CHAPTER LIV. HOW THE HORN WAS GIVEN INTO YWAIN'S HAND, AND HOW HE SOUNDED THEREON A MORT ROYAL.</text>
+      </navLabel>
+      <content src="Text/chapter54.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-55" playOrder="55">
+      <navLabel>
+        <text>CHAPTER LV. HOW THE EAGLES FARED IN FIGHTING, AND HOW SIR RAINALD WOULD HAVE DEALT WITH YWAIN.</text>
+      </navLabel>
+      <content src="Text/chapter55.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-56" playOrder="56">
+      <navLabel>
+        <text>CHAPTER LVI. HOW YWAIN BEHELD A DEAD MAN LAID ON BIER.</text>
+      </navLabel>
+      <content src="Text/chapter56.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-57" playOrder="57">
+      <navLabel>
+        <text>CHAPTER LVII. OF A BATTLE BY FIRE AND HOW YWAIN AND AITHNE WERE NO MORE SEEN IN PALADORE.</text>
+      </navLabel>
+      <content src="Text/chapter57.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-58" playOrder="58">
+      <navLabel>
+        <text>CHAPTER LVIII. OF A TOMB THAT WAS FOUND IN PALADORE, AND OF DIVERS SAYINGS THAT WERE HEARD CONCERNING IT.</text>
+      </navLabel>
+      <content src="Text/chapter58.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
