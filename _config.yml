@@ -21,3 +21,5 @@ url: https://evanwill.github.io
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
 baseurl: /aladore-reader
+
+exclude: [Aladore_Newbolt_1914/, README.md]
