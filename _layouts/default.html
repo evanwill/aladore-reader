@@ -19,7 +19,6 @@
 
             document.onreadystatechange = function () {
               if (document.readyState == "complete") {
-                //window.reader = ePubReader("{{ '/Aladore_Newbolt_1914/OEBPS/content.opf' | relative_url }}", {
                 window.reader = ePubReader("{{ '/assets/Aladore_HenryNewbolt_3.epub' | relative_url }}", {
                    restore: true
                  });
